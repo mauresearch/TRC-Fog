@@ -1,6 +1,5 @@
 # TRC-Fog: Energy-Aware Workflow Scheduling in Fog Computing with Coupled Thermal and Reliability Modeling
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23121604.svg)](https://doi.org/10.5281/zenodo.23121604)
 
 MATLAB implementation of the TRC framework for scheduling scientific workflows on fog nodes whose speed and reliability depend on temperature. The code plans the placement and standby replication of workflow tasks with the improved multi-objective walrus optimizer (IMOWO), evaluates every schedule with Monte-Carlo ground-truth simulators, and includes the predictive SLA controller (PSC) used at run time.
 
