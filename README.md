@@ -100,5 +100,3 @@ The folder `optimizers/MOWO_published` contains the published code of the multi-
 ## Citation
 
 If you use this code, please cite the paper above. The full reference will be added after publication.
-
-Archived version of the code: [https://doi.org/10.5281/zenodo.23121604](https://doi.org/10.5281/zenodo.23121604)
